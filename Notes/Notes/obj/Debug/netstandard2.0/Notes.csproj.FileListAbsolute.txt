@@ -1,0 +1,15 @@
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Khiem Huynh\source\repos\xamarin-101\Notes\Notes\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs
